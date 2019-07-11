@@ -9,8 +9,8 @@ to generate low resolution faces, we apply  [Single Shot Scale-invariant Face De
 ](https://arxiv.org/pdf/1708.05237.pdf) on [wider dataset](http://shuoyang1213.me/WIDERFACE/
 ) and select the results with confidence greater than 80% and with maximum(width,heigth) < 37.
 
-An example of the dataset upsampled to (64,64) size.
-![alt text](images/epoch011_real_LRv.png "Example of low resolution dataset").
+An example of the dataset upsampled to (64,64) with bicubic method.
+![alt text](images/epoch002_real_LRv.png "Example of low resolution dataset").
 
 In [this link](https://drive.google.com/file/d/1qeY_q2dMUsdt30V8_TuOVcNc40KbEe17/view?usp=sharing)  you will find the whole low resolution dataset.
 It is divided in 49,078 training images and 5,453 testing images.
