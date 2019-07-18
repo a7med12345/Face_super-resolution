@@ -48,3 +48,11 @@ we obtain the following qualitative results.
 ![alt text](images/FSRNET/INPUT/14.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/14.jpg 'input') |![alt text](images/FSRNET/INPUT/63.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/63.jpg 'input') 
 ![alt text](images/FSRNET/INPUT/18.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/18.jpg 'input') 
 
+3. Premilinary results
+
+Input                     | Output                   | Input                    |Output
+:-------------------------:|:------------------------:|:------------------------:|:----------------------:
+![alt text](images/gan1/INPUT/3.jpg 'input') |  ![alt text](images/gan1/OUTPUT/3.png 'input') | ![alt text](images/gan1/INPUT/24.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/24.png 'input')
+![alt text](images/gan1/INPUT/4.jpg 'input') |  ![alt text](images/gan1/OUTPUT/4.png 'input')  | ![alt text](images/gan1/INPUT/30.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/30.png 'input') 
+![alt text](images/gan1/INPUT/14.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/14.png 'input') |![alt text](images/gan1/INPUT/63.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/63.png 'input') 
+![alt text](images/gan1/INPUT/18.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/18.png 'input') 
