@@ -33,7 +33,7 @@ the whole high resolution dataset.
 It contains 220,818  images.
 
 
-2. BaseLine
+2.BaseLine
 
 2.1 FSRNet
 
@@ -48,7 +48,7 @@ we obtain the following qualitative results.
 ![alt text](images/FSRNET/INPUT/14.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/14.jpg 'input') |![alt text](images/FSRNET/INPUT/63.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/63.jpg 'input') 
 ![alt text](images/FSRNET/INPUT/18.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/18.jpg 'input') 
 
-3. Premilinary results
+3.Premilinary results
 
 Input                     | Output                   | Input                    |Output
 :-------------------------:|:------------------------:|:------------------------:|:----------------------:
@@ -56,3 +56,20 @@ Input                     | Output                   | Input                    
 ![alt text](images/gan1/INPUT/4.jpg 'input') |  ![alt text](images/gan1/OUTPUT/4.png 'input')  | ![alt text](images/gan1/INPUT/30.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/30.png 'input') 
 ![alt text](images/gan1/INPUT/14.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/14.png 'input') |![alt text](images/gan1/INPUT/63.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/63.png 'input') 
 ![alt text](images/gan1/INPUT/18.jpg 'input')  |  ![alt text](images/gan1/OUTPUT/18.png 'input') 
+
+
+
+4.Results
+
+Input                     | FSRNET                   | Ours                    |Input| FSRNET|Ours
+:-------------------------:|:------------------------:|:------------------------:|:----------------------:|:--------:|:--------------- 
+![alt text](images/results/input/30.jpg 'input') |  ![alt text](images/results/baseline/30.jpg 'baseline') | ![alt text](images/results/first_method/30_out.png 'ours')  |  ![alt text](images/results/input/50.jpg 'input') |  ![alt text](images/results/baseline/50.jpg 'baseline') | ![alt text](images/results/first_method/50_out.png 'ours')
+![alt text](images/results/input/80.jpg 'input') |  ![alt text](images/results/baseline/80.jpg 'baseline') | ![alt text](images/results/first_method/80_out.png 'ours')  |  ![alt text](images/results/input/90.jpg 'input') |  ![alt text](images/results/baseline/90.jpg 'baseline') | ![alt text](images/results/first_method/90_out.png 'ours') 
+![alt text](images/results/input/190.jpg 'input') |  ![alt text](images/results/baseline/190.jpg 'baseline') | ![alt text](images/results/first_method/190_out.png 'ours')  |  ![alt text](images/results/input/200.jpg 'input') |  ![alt text](images/results/baseline/200.jpg 'baseline') | ![alt text](images/results/first_method/200_out.png 'ours')
+![alt text](images/results/input/210.jpg 'input') |  ![alt text](images/results/baseline/210.jpg 'baseline') | ![alt text](images/results/first_method/210_out.png 'ours')  |  ![alt text](images/results/input/220.jpg 'input') |  ![alt text](images/results/baseline/220.jpg 'baseline') | ![alt text](images/results/first_method/220_out.png 'ours')
+![alt text](images/results/input/230.jpg 'input') |  ![alt text](images/results/baseline/230.jpg 'baseline') | ![alt text](images/results/first_method/230_out.png 'ours')  |  ![alt text](images/results/input/240.jpg 'input') |  ![alt text](images/results/baseline/240.jpg 'baseline') | ![alt text](images/results/first_method/240_out.png 'ours')   
+![alt text](images/results/input/300.jpg 'input') |  ![alt text](images/results/baseline/300.jpg 'baseline') | ![alt text](images/results/first_method/300_out.png 'ours')  |  ![alt text](images/results/input/360.jpg 'input') |  ![alt text](images/results/baseline/360.jpg 'baseline') | ![alt text](images/results/first_method/360_out.png 'ours')  
+![alt text](images/results/input/480.jpg 'input') |  ![alt text](images/results/baseline/480.jpg 'baseline') | ![alt text](images/results/first_method/480_out.png 'ours')  |  ![alt text](images/results/input/1100.jpg 'input') |  ![alt text](images/results/baseline/1100.jpg 'baseline') | ![alt text](images/results/first_method/1100_out.png 'ours') 
+![alt text](images/results/input/1380.jpg 'input') |  ![alt text](images/results/baseline/1380.jpg 'baseline') | ![alt text](images/results/first_method/1380_out.png 'ours')  |  ![alt text](images/results/input/1390.jpg 'input') |  ![alt text](images/results/baseline/1390.jpg 'baseline') | ![alt text](images/results/first_method/1390_out.png 'ours')
+![alt text](images/results/input/1400.jpg 'input') |  ![alt text](images/results/baseline/1400.jpg 'baseline') | ![alt text](images/results/first_method/1400_out.png 'ours')  |  ![alt text](images/results/input/1410.jpg 'input') |  ![alt text](images/results/baseline/1410.jpg 'baseline') | ![alt text](images/results/first_method/1410_out.png 'ours')
+![alt text](images/results/input/1530.jpg 'input') |  ![alt text](images/results/baseline/1530.jpg 'baseline') | ![alt text](images/results/first_method/1530_out.png 'ours')  |  ![alt text](images/results/input/1570.jpg 'input') |  ![alt text](images/results/baseline/1570.jpg 'baseline') | ![alt text](images/results/first_method/1570_out.png 'ours')   
