@@ -52,12 +52,12 @@ we obtain the following qualitative results.
 
 3.1 Overall Architecture:
 
-We use two generator and two discriminators: The first generator called high to low generator is used 
-to create low resolution data from high resolution input; it's combined with the first discriminator called
+We use two generator and one discriminators: The first generator called high to low generator is used 
+to create low resolution data from high resolution input; it's combined with the  discriminator called
 Low Resolution Discriminator.
 
 The second generator called low to high generator takes the output of the high to low generator as input and
-produce a high resolution image. It's combined with the second discriminator called high resolution discriminator.
+produce a high resolution image.
 
 The overall architecture is presented in the figure below.
 
@@ -82,12 +82,9 @@ The architecture is presented in the figure below.
 
 ![alt text](images/architectures/LowtoHigh.png 'L2H') 
 
-3.4 HR Discriminator and LR discriminator
+3.4 LR discriminator
 
-Both High resolution Discriminator and low resolution discriminator 
-share the same architecture.
-
-The architecture is presented in the figure below.
+The architecture of the low resolution discriminator is presented in the figure below.
 
 ![alt text](images/architectures/Discriminator.png 'H2L') 
 
