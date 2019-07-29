@@ -106,3 +106,11 @@ Input                     | FSRNET                   | Ours                    |
 ![alt text](images/results/input/1400.jpg 'input') |  ![alt text](images/results/baseline/1400.jpg 'baseline') | ![alt text](images/results/first_method/1400_out.png 'ours')  |  ![alt text](images/results/input/1410.jpg 'input') |  ![alt text](images/results/baseline/1410.jpg 'baseline') | ![alt text](images/results/first_method/1410_out.png 'ours') | ![alt text](images/results/input/2170.jpg 'input') |  ![alt text](images/results/baseline/2170.jpg 'baseline') | ![alt text](images/results/first_method/2170_out.png 'ours')
 ![alt text](images/results/input/1530.jpg 'input') |  ![alt text](images/results/baseline/1530.jpg 'baseline') | ![alt text](images/results/first_method/1530_out.png 'ours')  |  ![alt text](images/results/input/1570.jpg 'input') |  ![alt text](images/results/baseline/1570.jpg 'baseline') | ![alt text](images/results/first_method/1570_out.png 'ours') | ![alt text](images/results/input/2180.jpg 'input') |  ![alt text](images/results/baseline/2180.jpg 'baseline') | ![alt text](images/results/first_method/2180_out.png 'ours')
  
+ 5.Citer Data Results
+ 
+ Input                     | Output                   | Input                    |Output
+:-------------------------:|:------------------------:|:------------------------:|:----------------------:
+![alt text](images/citer/first_method/0_real_LR.png 'input') |  ![alt text](images/citer/first_method/0_out.png 'output') | ![alt text](images/citer/first_method/5_real_LR.png 'input')  |  ![alt text](images/citer/first_method/5_out.png 'output')
+![alt text](images/citer/first_method/11_real_LR.png 'input') |  ![alt text](images/citer/first_method/11_out.png 'output')  | ![alt text](images/citer/first_method/25_real_LR.png 'input')  |  ![alt text](images/citer/first_method/25_out.png 'output') 
+![alt text](images/citer/first_method/32_real_LR.png 'input')  |  ![alt text](images/citer/first_method/32_out.png 'output') |![alt text](images/citer/first_method/39_real_LR.png 'input')  |  ![alt text](images/citer/first_method/39_out.png 'output') 
+![alt text](images/citer/first_method/64_real_LR.png 'input')  |  ![alt text](images/citer/first_method/64_out.png 'output') |![alt text](images/citer/first_method/51_real_LR.png 'input')  |  ![alt text](images/citer/first_method/51_out.png 'output')
