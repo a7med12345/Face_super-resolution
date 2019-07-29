@@ -25,6 +25,7 @@ and select the results with confidence greater than 80% and with min(width,heigt
 
 
 An example of the dataset resized to (64,64) size.
+
 ![alt text](images/epoch001_real_HR.png "Example of high resolution dataset").
 
 
