@@ -37,17 +37,10 @@ It contains 220,818  images.
 
 2.1 FSRNet
 
-Using [FSRNet with Gan loss](https://drive.google.com/file/d/10i2NZfUyf2Yold4ABusz3Que-XN_gEEu/view) on wider dataset and
+We Use [FSRNet with Gan loss](https://drive.google.com/file/d/10i2NZfUyf2Yold4ABusz3Que-XN_gEEu/view) on wider dataset and
 with the network trained with [celebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) 
-we obtain the following qualitative results.
-
- Input                     | Output                   | Input                    |Output
-:-------------------------:|:------------------------:|:------------------------:|:----------------------:
-![alt text](images/FSRNET/INPUT/3.jpg 'input') |  ![alt text](images/FSRNET/OUTPUT/3.jpg 'input') | ![alt text](images/FSRNET/INPUT/24.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/24.jpg 'input')
-![alt text](images/FSRNET/INPUT/4.jpg 'input') |  ![alt text](images/FSRNET/OUTPUT/4.jpg 'input')  | ![alt text](images/FSRNET/INPUT/30.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/30.jpg 'input') 
-![alt text](images/FSRNET/INPUT/14.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/14.jpg 'input') |![alt text](images/FSRNET/INPUT/63.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/63.jpg 'input') 
-![alt text](images/FSRNET/INPUT/18.jpg 'input')  |  ![alt text](images/FSRNET/OUTPUT/18.jpg 'input') 
-
+as our baseline.
+ 
 3.Method:
 
 3.1 Overall Architecture:
@@ -89,6 +82,9 @@ The architecture of the low resolution discriminator is presented in the figure 
 ![alt text](images/architectures/Discriminator.png 'H2L') 
 
 4.Results
+
+Our method compared with [FSRNet with Gan loss ](https://drive.google.com/file/d/10i2NZfUyf2Yold4ABusz3Que-XN_gEEu/view)  that
+is trained on [celebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) 
 
 Input                     | FSRNET                   | Ours                    |Input| FSRNET|Ours|Input|FSRNET|Ours
 :-------------------------:|:------------------------:|:------------------------:|:----------------------:|:--------:|:---------------:|:------------:|:----------------:|:-------------------- 
