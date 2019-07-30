@@ -118,6 +118,9 @@ Input                     | FSRNET                   | Ours                    |
  
  6.Citer Data Results
  
+ You will find the results for 71 subjects and named appropriatly in 
+ [the following directory](images/citer/images/).
+ 
  Input                     | Output                   | Input                    |Output
 :-------------------------:|:------------------------:|:------------------------:|:----------------------:
 ![alt text](images/citer/first_method/0_real_LR.png 'input') |  ![alt text](images/citer/first_method/0_out.png 'output') | ![alt text](images/citer/first_method/5_real_LR.png 'input')  |  ![alt text](images/citer/first_method/5_out.png 'output')
