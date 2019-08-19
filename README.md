@@ -127,3 +127,36 @@ Input                     | FSRNET                   | Ours                    |
 ![alt text](images/citer/first_method/11_real_LR.png 'input') |  ![alt text](images/citer/first_method/11_out.png 'output')  | ![alt text](images/citer/first_method/25_real_LR.png 'input')  |  ![alt text](images/citer/first_method/25_out.png 'output') 
 ![alt text](images/citer/first_method/32_real_LR.png 'input')  |  ![alt text](images/citer/first_method/32_out.png 'output') |![alt text](images/citer/first_method/39_real_LR.png 'input')  |  ![alt text](images/citer/first_method/39_out.png 'output') 
 ![alt text](images/citer/first_method/64_real_LR.png 'input')  |  ![alt text](images/citer/first_method/64_out.png 'output') |![alt text](images/citer/first_method/51_real_LR.png 'input')  |  ![alt text](images/citer/first_method/51_out.png 'output')
+
+7.Grayscale images results
+
+Images found at  [the following directory](images/grayscale/).
+
+
+Input                     | Output                   | Input                    |Output
+:-------------------------:|:------------------------:|:------------------------:|:----------------------:
+![alt text](images/grayscale/0122_final_input.png 'input') |  ![alt text](images/grayscale/0122_final_out.png 'output') | ![alt text](images/grayscale/0163_final_input.png 'input')  |  ![alt text](images/grayscale/0163_final_out.png 'output')
+![alt text](images/grayscale/0164_final_input.png 'input') |  ![alt text](images/grayscale/0164_final_out.png 'output') | ![alt text](images/grayscale/0165_final_input.png 'input')  |  ![alt text](images/grayscale/0165_final_out.png 'output')
+![alt text](images/grayscale/0166_final_input.png 'input') |  ![alt text](images/grayscale/0166_final_out.png 'output') | ![alt text](images/grayscale/0167_final_input.png 'input')  |  ![alt text](images/grayscale/0167_final_out.png 'output')
+![alt text](images/grayscale/0168_final_input.png 'input') |  ![alt text](images/grayscale/0168_final_out.png 'output') | ![alt text](images/grayscale/0189_final_input.png 'input')  |  ![alt text](images/grayscale/0189_final_out.png 'output')
+![alt text](images/grayscale/0193_final_input.png 'input') |  ![alt text](images/grayscale/0193_final_out.png 'output') | ![alt text](images/grayscale/0194_final_input.png 'input')  |  ![alt text](images/grayscale/0194_final_out.png 'output')
+![alt text](images/grayscale/0254_final_input.png 'input') |  ![alt text](images/grayscale/0254_final_out.png 'output') | ![alt text](images/grayscale/0255_final_input.png 'input')  |  ![alt text](images/grayscale/0255_final_out.png 'output')
+![alt text](images/grayscale/0256_final_input.png 'input') |  ![alt text](images/grayscale/0256_final_out.png 'output') | ![alt text](images/grayscale/0258_final_input.png 'input')  |  ![alt text](images/grayscale/0258_final_out.png 'output')
+![alt text](images/grayscale/0259_final_input.png 'input') |  ![alt text](images/grayscale/0259_final_out.png 'output') | ![alt text](images/grayscale/0260_final_input.png 'input')  |  ![alt text](images/grayscale/0260_final_out.png 'output')
+![alt text](images/grayscale/0261_final_input.png 'input') |  ![alt text](images/grayscale/0261_final_out.png 'output') | ![alt text](images/grayscale/0263_final_input.png 'input')  |  ![alt text](images/grayscale/0263_final_out.png 'output')
+![alt text](images/grayscale/0264_final_input.png 'input') |  ![alt text](images/grayscale/0264_final_out.png 'output') | ![alt text](images/grayscale/0278_final_input.png 'input')  |  ![alt text](images/grayscale/0278_final_out.png 'output')
+![alt text](images/grayscale/0279_final_input.png 'input') |  ![alt text](images/grayscale/0279_final_out.png 'output') | ![alt text](images/grayscale/0280_final_input.png 'input')  |  ![alt text](images/grayscale/0280_final_out.png 'output')
+![alt text](images/grayscale/0704_final_input.png 'input') |  ![alt text](images/grayscale/0704_final_out.png 'output') | ![alt text](images/grayscale/0707_final_input.png 'input')  |  ![alt text](images/grayscale/0707_final_out.png 'output')
+![alt text](images/grayscale/0708_final_input.png 'input') |  ![alt text](images/grayscale/0708_final_out.png 'output') | ![alt text](images/grayscale/0709_final_input.png 'input')  |  ![alt text](images/grayscale/0709_final_out.png 'output')
+![alt text](images/grayscale/0710_final_input.png 'input') |  ![alt text](images/grayscale/0710_final_out.png 'output') | ![alt text](images/grayscale/0711_final_input.png 'input')  |  ![alt text](images/grayscale/0711_final_out.png 'output')
+![alt text](images/grayscale/0712_final_input.png 'input') |  ![alt text](images/grayscale/0712_final_out.png 'output') | ![alt text](images/grayscale/0713_final_input.png 'input')  |  ![alt text](images/grayscale/0713_final_out.png 'output')
+
+
+
+
+
+
+
+
+
+
